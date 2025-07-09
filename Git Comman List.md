@@ -1,6 +1,6 @@
 ## Git Command List 
 
-#### There are mailny 4 component git version contorl
+#### There are mainly 4 component in git version control system
 
 1. Workspace
 2. Stagging 
